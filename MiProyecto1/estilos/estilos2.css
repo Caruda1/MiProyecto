@@ -1,0 +1,44 @@
+#form1{
+    margin-top: 6.8%;
+    color: azure;
+    width: 150%;
+    height: 100%;
+    margin-left: 11%;
+}
+fieldset{
+    width: 50%;
+}
+label{
+    color: rgb(173, 106, 236);
+}
+input{
+    margin: 10px;
+    
+}
+#foto3 {
+
+    position: absolute;
+    position: fixed;
+    top: 13.5%;
+    width: 10%;
+    margin-left: -1%;
+}
+
+#foto4 {
+    position: absolute;
+    position: fixed;
+    top: 13.5%;
+    width: 10%;
+    margin-left: 89%;
+}
+#foto5{
+    position: absolute;
+    top: 80%;
+    width: 30%;
+    margin-left: 11%;
+}
+#info{
+    margin-left: 43%;
+    width: 45%;
+    font-size: 130%;
+}
