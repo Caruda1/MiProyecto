@@ -80,3 +80,6 @@ section img:hover{
     color: rgb(163, 97, 225);
     font-size: 150%;
 }
+#enlace:hover {
+    color: darkblue;
+}

@@ -8,11 +8,15 @@
 fieldset{
     border-radius: 4%;
     width: 50%;
-    color: darkmagenta;
+    color: rgb(202, 74, 202);
 }
 label{
-    color: rgb(173, 106, 236);
+    color: rgb(214, 178, 248);
 }
+label:hover{
+    color: blueviolet;
+}
+
 input{
     margin: 10px;
     
