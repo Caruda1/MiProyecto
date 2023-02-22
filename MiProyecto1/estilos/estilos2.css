@@ -6,7 +6,9 @@
     margin-left: 11%;
 }
 fieldset{
+    border-radius: 4%;
     width: 50%;
+    color: darkmagenta;
 }
 label{
     color: rgb(173, 106, 236);
@@ -33,7 +35,7 @@ input{
 }
 #foto5{
     position: absolute;
-    top: 80%;
+    top: 50%;
     width: 30%;
     margin-left: 11%;
 }
